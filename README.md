@@ -26,7 +26,7 @@ Enjoy!
 
 **NOTE THAT: "Syncler is a client side app to help users track their watched content on different services."** [More Here](https://syncler.net/disclaimer)
 
-#Revies (r/providers4syncler): 
+# Revies (r/providers4syncler): 
 
 **Before I start this is the best guide that i could find to set up this app.**
 
