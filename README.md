@@ -2,7 +2,9 @@
 How to set up! The best syncing app there is. Syncler works on Android TV (Fire TV, Nvidia Sheild too), phones, tablets. Get Syncler+ today to experience the ultimate syncing experience there is.
 
 [Syncler Official Website](https://syncler.net/)
+
 [Syncler Plus](https://syncler.net/plus)
+
 [Syncler Support](https://syncler.net/plus-support)
 
 How to use:
