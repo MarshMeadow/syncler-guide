@@ -25,3 +25,15 @@ And click done.
 Enjoy!
 
 **NOTE THAT: "Syncler is a client side app to help users track their watched content on different services."** [More Here](https://syncler.net/disclaimer)
+
+#Revies (r/providers4syncler): 
+
+Before I start this is the best guide that i could find to set up this app.
+
+Q/A 1: "do i need premium?"
+
+A: "installed all the packages but keeps saying 0 sources found. Is this cus i need premium?"
+
+Q/A 2: "Syncler+ Help":
+
+Q/A: Sorry Nubi ! Anybody have any help for a nubi, every provider package that I enter into Syncler+ says installed failed? I can't get any packages to install. Any and all advice would be great.
