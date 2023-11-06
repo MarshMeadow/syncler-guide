@@ -9,7 +9,7 @@ How to set up! The best syncing app there is. Syncler works on Android TV (Fire 
 
 How to use:
 
-Download it (obviously) -  [Google Play](https://play.google.com/store/apps/details?id=com.syncler) - [Aptoid](https://syncler.en.aptoide.com/app) [Apk](https://syncler.net/d)
+Download it (obviously) -  [Google Play](https://play.google.com/store/apps/details?id=com.syncler) - [Aptoid](https://syncler.en.aptoide.com/app) - [Apk](https://syncler.net/d)
 
 Then go to setting > Provider Packages > click on kosmos.
 
