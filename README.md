@@ -11,15 +11,21 @@ How to use:
 
 1. Download it (obviously) -  [Google Play](https://play.google.com/store/apps/details?id=com.syncler) - [Aptoid](https://syncler.en.aptoide.com/app) - [Apk](https://syncler.net/d)
 
-2. Then go to settings> Provider Packages > click on kosmos.
+2. Open Syncler.
 
-3. Then go to: https://syncler.net/install
+3. Then go to settings> Provider Packages > click on kosmos.
 
-4. Enter the code
+4. Follow instructions on-screen.
 
-5. After that put this in packages
+5. Then go to: https://syncler.net/install
+
+6. Enter the code
+
+7. After that put this in packages
 
 https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js
+
+(Optional) Delete Express packages as it may contain duplicate providers.
 
 And click done.
 Enjoy!
