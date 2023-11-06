@@ -36,4 +36,4 @@ Q/A 1: "do i need premium?"
 
 Q/A 2: "Syncler+ Help":
 
-- Q/A: Sorry Nubi ! Anybody have any help for a nubi, every provider package that I enter into Syncler+ says installed failed? I can't get any packages to install. Any and all advice would be great.
+- Q/A: "Sorry Nubi ! Anybody have any help for a nubi, every provider package that I enter into Syncler+ says installed failed? I can't get any packages to install. Any and all advice would be great."
