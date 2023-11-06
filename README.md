@@ -24,4 +24,4 @@ https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js
 And click done.
 Enjoy!
 
-**NOTE THAT: Syncler is a client side app to help users track their watched content on different services.** [More Here](https://syncler.net/disclaimer)
+**NOTE THAT: "Syncler is a client side app to help users track their watched content on different services."** [More Here](https://syncler.net/disclaimer)
