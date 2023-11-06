@@ -1,5 +1,5 @@
 # syncler-guide
-How to set up! The best syncing app there is. Syncler works on Android TV (Fire TV, Nvidia Sheild too), phones, tablets. Get Syncler+ today to experience the ultimate syncing experience there is.
+How to set up! Syncler lets you browse, organize, track and sync your Movies, TV Shows and Anime watchlist, history and progress all in one place on your TV, phone or tablet.The best syncing app there is. Syncler works on Android TV (Fire TV, Nvidia Sheild too), phones, tablets. Get Syncler+ today to experience the ultimate syncing experience there is.
 
 [Syncler Official Website](https://syncler.net/)
 
