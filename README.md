@@ -23,6 +23,8 @@ How to use:
 
 7. After that put this in packages
 
+(This may not be up to date, or fully working, or not working at all..)
+
 https://raw.githubusercontent.com/WeeklyProblem/Bouncy/main/bouncy.min.js
 
 (Optional) Delete Express packages as it may contain duplicate providers.
