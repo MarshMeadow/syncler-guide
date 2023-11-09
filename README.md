@@ -38,7 +38,7 @@ Enjoy!
 
 Q/A 1: "do i need premium?"
 
-- A: "installed all the packages but keeps saying 0 sources found. Is this cus i need premium?"
+- Q/A: "installed all the packages but keeps saying 0 sources found. Is this cus i need premium?"
 
 Q/A 2: "Syncler+ Help":
 
